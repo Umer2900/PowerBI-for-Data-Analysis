@@ -15,7 +15,7 @@ The project demonstrates the complete Power BI workflow — from importing data 
 
 ## 🎥 Demo
 
-![Demo](assets/Demo.gif)
+![Demo](assets/demo.gif)
 
 ---
 
