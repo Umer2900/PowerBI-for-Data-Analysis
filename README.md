@@ -30,7 +30,12 @@ POWER BI/
 ├── 6. Project 1 - Sales Data Analysis/
 |   |   assets
 |   |   README.md
-│   ├── Project 1 - Sales Data Analysis.pdf
+│   ├── Sales Data Analysis.pdf
+│
+├── 7. Project 2 - Inventory Data Analysis/
+|   |   assets
+|   |   README.md
+│   ├── Inventory Data Analysis.pdf
 │
 ├── .gitignore
 └── README.md
